@@ -1,0 +1,2 @@
+# walletvalidator
+validates wallet
